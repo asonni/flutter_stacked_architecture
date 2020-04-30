@@ -1,4 +1,4 @@
-# flutter_stacked_architecture
+# Flutter Stacked Architecture
 
 A new Flutter project.
 
